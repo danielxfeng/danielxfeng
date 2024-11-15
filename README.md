@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+full-stack+engineer.;I+love+solving+complex+problems.;Coding+is+my+passion!)](https://git.io/typing-svg)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielxfeng&hide=Jupyter%20Notebook,Shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&hide=Jupyter%20Notebook,Shell,HTML,CSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🛠️ My Tech Stack
