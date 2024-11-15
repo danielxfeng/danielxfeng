@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Daniel 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+full-stack+engineer.;I+love+solving+complex+problems.;Coding+is+my+passion!)](https://git.io/typing-svg)
 ---
