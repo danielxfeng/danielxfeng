@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+full-stack+engineer.;I+love+solving+complex+problems.;Coding+is+my+passion!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+full-stack+and+systems+engineer.;I+love+solving+complex+problems.;Coding+is+my+passion!)](https://git.io/typing-svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielxfeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
