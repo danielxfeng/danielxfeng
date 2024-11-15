@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielxfeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=你的用户名)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=danielxfeng)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
