@@ -7,16 +7,16 @@
 
 ### 🛠️ My Tech Stack
 
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
 #### 🛠️ Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go)
+
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
 #### 🛠️ System Programming
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -27,8 +27,7 @@
 
 #### 🌐 Distributed Systems
 - **Frameworks & Tools**: ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-- **Concepts**: Raft, Paxos, CAP Theorem
-- **Raft-based Database**
+- **Concepts**: Raft
 
 ### 📜 Certifications
 ![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
