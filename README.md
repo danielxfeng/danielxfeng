@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+full-stack+engineer.;I+love+solving+complex+problems.;Coding+is+my+passion!)](https://git.io/typing-svg)
 ---
-[![Top Langs](https://github-readme-stats-seven-beta-69.vercel.app/api/top-langs/?username=danielxfeng&hide=javascript,css,shell,python,cmake&count_private=true&layout=compact&&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-seven-beta-69.vercel.app/api/top-langs/?username=danielxfeng&hide=css,shell,cmake,jupyter%20Notebook&count_private=true&layout=compact&&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🛠️ My Tech Stack
@@ -25,7 +25,7 @@
 - **Performance Optimization**
 
 #### 🌐 Distributed Systems
-- **Frameworks & Tools**: ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+- **Frameworks & Tools**: ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 - **Concepts**: Raft
 
 ### 📜 Certifications
