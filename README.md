@@ -1,6 +1,6 @@
 ## Hi there, I am Daniel 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+solving+complex+problems.;Web Dev · System Programming · AI;Coding+is+my+passion!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+solving+complex+problems.;Web+Dev+·+System+Programming+·+AI;Coding+is+my+passion!)](https://git.io/typing-svg)
 ---
 [![Top Langs](https://github-readme-stats-seven-beta-69.vercel.app/api/top-langs/?username=danielxfeng&hide=css,shell,javascript,html,jupyter%20notebook&count_private=true&layout=compact&&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
