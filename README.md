@@ -9,14 +9,15 @@
 
 #### 🛠️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 #### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-yellow?style=flat-square&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 #### 🛠️ System Programming
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
