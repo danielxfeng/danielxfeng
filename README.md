@@ -15,7 +15,7 @@
 
 #### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-yellow?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-yellow?style=flat-square&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
 #### 🛠️ System Programming
