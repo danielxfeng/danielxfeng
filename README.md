@@ -14,6 +14,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 
 #### 🌐 Frontend
@@ -31,8 +32,6 @@
 #### 🛠️ System Programming
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-- **Operating Systems Development**
-- **Performance Optimization**
 
 
 #### 🤖 AI & Machine Learning
@@ -41,11 +40,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-
-#### 🌐 Distributed Systems
-- **Frameworks & Tools**: ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-- **Concepts**: Raft
 
 
 ### 📜 Certifications
