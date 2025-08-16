@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+solving+complex+problems.;Web+Dev+·+System+Programming+·+AI;Coding+is+my+passion!)](https://git.io/typing-svg)
 ---
 [![committers.top badge](https://user-badge.committers.top/finland/danielxfeng.svg)](https://user-badge.committers.top/finland/danielxfeng)
+---
 [![Top Langs](https://github-readme-stats-seven-beta-69.vercel.app/api/top-langs/?username=danielxfeng&hide=css,shell,javascript,html,jupyter%20notebook&count_private=true&layout=compact&&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
