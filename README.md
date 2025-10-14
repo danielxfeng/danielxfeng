@@ -4,7 +4,7 @@
 ---
 [![Top Langs](https://github-readme-stats-seven-beta-69.vercel.app/api/top-langs/?username=danielxfeng&hide=css,shell,javascript,html,jupyter%20notebook&count_private=true&layout=compact&&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[![committers.top badge](https://user-badge.committers.top/finland/USERNAME.svg)](https://user-badge.committers.top/finland/danielxfeng)
+[![committers.top badge](https://user-badge.committers.top/finland/danielxfeng.svg)](https://user-badge.committers.top/finland/danielxfeng)
 ---
 
 ### 🛠️ My Tech Stack
