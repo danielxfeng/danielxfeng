@@ -10,7 +10,7 @@
 
 ### 🛠️ My Tech Stack
 
-#### 👨‍💻 Programming Languages: ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+#### 👨‍💻 Programming Languages: ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 #### 🛠️ Backend: ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
@@ -27,6 +27,7 @@
 ---
 
 ✨ Feel free to connect with me or check out my projects!
+
 🌐 [Homepage](https://danielslab.dev) | 💼 [LinkedIn](https://www.linkedin.com/in/xin-daniel-feng)
 
 <!--
