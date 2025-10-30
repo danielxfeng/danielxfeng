@@ -1,4 +1,4 @@
-## Hi there, I am Daniel 👋
+## Hi there, I am <span style="color:##405df4;">Daniel</span> 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?width=600&lines=Full+stack+Web+Dev+·+System+Programming+·+AI)](https://git.io/typing-svg)
 ---
