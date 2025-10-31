@@ -14,7 +14,7 @@
     <li>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" 
            alt="Technologist" width="25px" align="center" />
-      I build reliable, performant, and scalable applications with a big picture mindset and a strong foundation in CS.
+      I enjoy building reliable, performant, and scalable applications with a big picture mindset and a strong foundation in CS.
     </li>
     <li>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" 
