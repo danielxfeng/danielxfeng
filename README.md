@@ -19,7 +19,7 @@
     <li>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" 
            alt="Brain" width="25px" align="center" />
-      I’m curious and learn fast, agile and act quickly, and committed to delivering efficiently and growing continuously.
+      I am curious and quick to learn, I act with agility and stay committed to delivering efficiently while continuously growing.
     </li>
     <li>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" 
