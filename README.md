@@ -14,13 +14,12 @@
     <li>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" 
            alt="Technologist" width="25px" align="center" />
-      I build reliable and performant web applications, combining system-level thinking with a solid foundation in computer science.
+      I build reliable, performant, and scalable applications with a big picture mindset and a strong foundation in CS.
     </li>
     <li>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" 
            alt="Brain" width="25px" align="center" />
-      I’m <strong>curious</strong> and <strong>quick to learn</strong>, and love exploring new technologies 
-      and applying them to real-world challenges.
+      I’m curious and learn fast, agile and act quickly, and committed to delivering efficiently and growing continuously.
     </li>
     <li>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" 
