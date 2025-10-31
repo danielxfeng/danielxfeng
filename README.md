@@ -6,14 +6,6 @@
   Hi there, I am <a href="http://danielslab.dev" target="_blank">Daniel</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Waving Hand Emoji" width="30px"/> 
 </h1>
 <div>
-  <a href="https://user-badge.committers.top/finland/danielxfeng">
-    <img src="https://user-badge.committers.top/finland/danielxfeng.svg" alt="Public commit rank in Finland" height="150">
-  </a>
-  <a href="https://user-badge.committers.top/finland_private/danielxfeng">
-    <img src="https://user-badge.committers.top/finland_private/danielxfeng.svg" alt="Private commit rank in Finland" height="150">
-  </a>
-</div>
-<div>
   <h2>About Me</h2>
   <p>
     I’m a software developer focusing on <strong>full-stack web development</strong>, <strong>system programming</strong>, and <strong>applied AI</strong>.
@@ -67,12 +59,23 @@
     (<a href="https://cs144.github.io/">Computer Networks</a>).
   </p>
 </div>
+
+
+<div>
+  <a href="https://user-badge.committers.top/finland/danielxfeng">
+    <img src="https://user-badge.committers.top/finland/danielxfeng.svg" alt="Public commit rank in Finland" height="150">
+  </a>
+  <a href="https://user-badge.committers.top/finland_private/danielxfeng">
+    <img src="https://user-badge.committers.top/finland_private/danielxfeng.svg" alt="Private commit rank in Finland" height="150">
+  </a>
+</div>
+
+
 <div>
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30px" align="center" />
     My Tech Stack
   </h2>
-
   <ul>
     <li>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25px" align="center" />
@@ -127,10 +130,7 @@
   </ul>
 </div>
 
-
 [![Top Langs](https://github-readme-stats-seven-beta-69.vercel.app/api/top-langs/?username=danielxfeng&hide=css,shell,javascript,html,jupyter%20notebook&count_private=true&layout=compact&&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!--
 **danielxfeng/danielxfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
