@@ -79,10 +79,10 @@
     <li>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25px" align="center" />
       Programming Languages:
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java"/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus"/>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
     </li>
